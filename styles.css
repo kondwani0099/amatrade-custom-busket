@@ -1,0 +1,82 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container1 {
+    margin-top: 300px;
+    max-width: 90%;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    margin-right: 10px;
+}
+
+#basketItems {
+    border-top: 2px solid #ddd;
+    padding-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+
+.custom-busket {
+    background: linear-gradient(to right, #faa125, #478dd8);
+     padding: 40px 0;
+   
+    /* color: white;
+    text-align: center; */ 
+}
+
+.center-btn {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border-color: #FFA500;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
